@@ -11,31 +11,27 @@ I’m currently studying **Software Engineering at Miva Open University**, where
 
 ---
 
-### 💻 Technical Skills
+## 💻 Tech Stack
 
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB / Mongoose
-- RESTful API Design
-- JWT Authentication
-- API Testing (Jest & Supertest)
-- Git & GitHub
-- MVC Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,git,github,postman,docker" />
+</p>
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-**Blogging API**
-- Built a RESTful blogging platform with authentication
-- Supports draft/published workflow, read counts, filtering, and pagination
-- Implemented JWT authentication and API testing
+### Blogging API
+RESTful blogging platform with authentication, publishing workflow, read counts, filtering, and pagination.
 
-**Todo Application**
-- Backend-powered task management system
-- Features task states such as pending, completed, and deleted
-- Built using Node.js, Express, MongoDB, and MVC architecture
+**Tech:** Node.js, Express, MongoDB, JWT, Jest
+
+---
+
+### Todo Application
+Backend-powered task management system with authentication and task state management.
+
+**Tech:** Node.js, Express, MongoDB
 
 ---
 
@@ -45,20 +41,15 @@ I’m currently studying **Software Engineering at Miva Open University**, where
 - Scalable backend architecture
 - Performance optimization
 - Cloud deployment and DevOps fundamentals
-
 ---
 
-### 💼 Open to Opportunities
-
-I’m currently open to **internship and junior backend engineering opportunities** where I can contribute to building reliable backend systems while continuing to grow as a software engineer.
-
----
-
-### 📫 Contact
+## 📫 Contact
 
 Email: **perfectnyke@outlook.com**
 
----
+I'm currently open to **internship and junior backend engineering opportunities.**
 
+---
+## 📊 GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ade-nike17&show_icons=true&include_all_commits=true&hide_border=true" alt="Adenike's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ade-nike17&langs_count=8&layout=compact&hide_border=true" alt="Adenike's GitHub stats" /> |
 | ------------- | ------------- |
